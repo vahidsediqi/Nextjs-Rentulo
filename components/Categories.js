@@ -1,7 +1,7 @@
 import React from 'react'
 export default function Categories() {
   return (
-    <div className='featured grid md:grid-cols-3 gap-9'>
+    <div className='featured grid lg:grid-cols-3 gap-9 mx-5'>
         <div className='featuredItem'>
            <img className="featuredImage" src='https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/362853196.jpg?k=44b28af91d7c9851dba783acf04897e99451d93cdf94c141661118ab8581a095&o=&hp=1'/>
            <a href=''>

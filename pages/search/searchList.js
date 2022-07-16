@@ -1,8 +1,5 @@
 import React from 'react'
-import Link from 'next/dist/client/link'
-import Header from '../../components/Header'
 import Footer from '../../components/Footer'
-import { SearchIcon } from '@heroicons/react/solid'
 import SearchItem from '../../components/SearchItem'
 import Navbar from '../../components/Navbar'
 

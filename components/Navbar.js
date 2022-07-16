@@ -2,7 +2,6 @@ import { useState } from 'react'
 import Image from "next/dist/client/image"
 import logo from '../images/rentulo.png'
 import React from 'react'
-import Button from './Button'
 import { MenuIcon, SearchIcon, UserCircleIcon } from '@heroicons/react/solid'
 import Link from 'next/link'
 
@@ -10,7 +9,7 @@ export default function Navbar() {
     let links = [
         {name: 'HOME', link: '/'},
         {name: 'ABOUT', link: '/about'},
-        {name: 'NEW UPDATES', link: '#'},
+        {name: 'LATEST', link: '#'},
         {name: 'CONTACT', link: '/contact'},
     ]
 
@@ -28,7 +27,6 @@ export default function Navbar() {
             objectPosition="left"
             />
             </Link>
-
         </div>
         <div className='search'>
             <div 

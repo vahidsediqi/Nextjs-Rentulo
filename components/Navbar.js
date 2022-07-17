@@ -20,11 +20,10 @@ export default function Navbar() {
         <div className="relative flex items-center h-10 cursor-pointer">
             <Link href={'/'}>
             <Image 
-            src={logo}
-            layout='intrinsic'
-            width='200x'
-            objectFit="contain"
-            objectPosition="left"
+            src='https://cindria-demo.netlify.app/assets/img/rentulo.png'
+            width='200'
+            height='42'
+            property
             />
             </Link>
         </div>

@@ -15,9 +15,9 @@ export default function login() {
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
       </Head>
         <Navbar />
-        <mail class="flex flex-col items-center justify-center w-full flex-1 px-20 text-center pt-[200px]">
-          <div className='bg-white rounded-2xl shadow-2xl flex w-2/3 max-w-4xl'>
-              <div className='w-3/5 p-5'>
+        <mail class="flex flex-col items-center justify-center w-full flex-1 px-20 text-center pt-[200px] mb-10">
+          <div className='bg-white rounded-2xl shadow-2xl flex flex-col md:flex-row  md:max-w-4xl w-[100%]'>
+              <div className='md:w-3/5 p-5'>
                  <div className='text-left font-bold text-2xl'>
                     <span className='text-yellow-500'>Rent</span>ulo
                  </div>
@@ -50,7 +50,7 @@ export default function login() {
                  </div>
               </div>
 
-             <div className='w-2/5  bg-yellow-500 text-white rounded-r-2xl py-36 px-12 '>
+             <div className='md:w-2/5  bg-yellow-500 text-white md:rounded-r-2xl py-10 md:py-36 px-12 '>
                 <h2 className='text-3xl font-bold mb-2'>Hello, There</h2>
                 <div className='border-2 w-10 inline-block mb-2'></div>
                 <p className='mb-2'>Start your Journy with Rentulo</p>

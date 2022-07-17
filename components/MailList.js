@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function MailList() {
   return (
-    <div className='mail bg-yellow-600 text-white md:flex flex-col items-center py-10 gap-2 hidden '>
+    <div className='mail bg-[#DC5D41] text-white md:flex flex-col items-center py-10 gap-2 hidden '>
         <h3 className='text-3xl font-bold'>Save time, save money</h3>
         <span className='text-lg mb-2'>Sign up and we will send the best deals to you</span>
         <form>

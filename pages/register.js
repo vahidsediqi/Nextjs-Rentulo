@@ -15,8 +15,8 @@ export default function register() {
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
       </Head>
         <Navbar />
-        <mail class="flex flex-col items-center justify-center w-full flex-1 px-20 text-center pt-[200px] mb-10">
-          <div className='bg-white rounded-2xl shadow-2xl flex w-full justify-center max-w-xl'>
+        <mail class="flex flex-col items-center justify-center w-full flex-1 md:px-20 text-center pt-[200px] mb-10">
+          <div className='bg-white rounded-2xl shadow-2xl flex flex-col md:flex-row  md:max-w-xl w-[100%] sm:w-[100%]'>
               <div className='w-[100%] p-5'>
                  <div className='py-10'>
                     <h2 className='text-yellow-500 text-2xl font-bold mb-2'>Sign In to Rentulo</h2>

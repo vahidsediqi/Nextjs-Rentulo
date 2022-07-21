@@ -17,7 +17,7 @@ export default function SearchList() {
     },
     {
         title: 'Stüdyo daire, şehir but',
-        image: 'https://a0.muscache.com/im/pictures/prohost-api/Hosting-50431984/original/e480c28a-9174-4ba8-a4c6-3371e8a5b02a.jpeg?im_w=1200',
+        image: 'https://m.media-amazon.com/images/I/81gb2H-CRVS._AC_SL1500_.jpg',
         price: 525,
         rating: '5.2',
         desc: ' containing Lorem Ipsum passages, and more recently ',
@@ -26,7 +26,7 @@ export default function SearchList() {
     },
     {
       title: 'Stüdyo daire, şehir but',
-      image: 'https://a0.muscache.com/im/pictures/aaeb7c6d-d481-439f-9f01-26b43c31060f.jpg?im_w=1200',
+      image: 'https://m.media-amazon.com/images/I/81gkKjXCsuL._AC_SL1500_.jpg',
         price: 70,
         seller: 'Naweed jan',
         rating: '9.2',
@@ -37,7 +37,7 @@ export default function SearchList() {
     ,
     {
       title: 'Stüdyo daire, şehir but',
-      image: 'https://a0.muscache.com/im/pictures/aaeb7c6d-d481-439f-9f01-26b43c31060f.jpg?im_w=1200',
+      image: 'https://m.media-amazon.com/images/I/71jsrUhfSlS._AC_SL1500_.jpg',
         price: 70,
         seller: 'Naweed jan',
         rating: '9.2',
@@ -47,7 +47,7 @@ export default function SearchList() {
     },
     {
       title: 'Stüdyo daire, şehir but',
-      image: 'https://a0.muscache.com/im/pictures/aaeb7c6d-d481-439f-9f01-26b43c31060f.jpg?im_w=1200',
+      image: 'https://m.media-amazon.com/images/I/61-if4uC0pL._AC_SL1500_.jpg',
       price: 70,
       seller: 'Naweed jan',
       rating: '9.2',
@@ -56,7 +56,7 @@ export default function SearchList() {
       location: 'izmir Buca'
   }, {
     title: 'Stüdyo daire, şehir but',
-    image: 'https://i1.adis.ws/i/canon/eos-r-lifestyle_7762546357204f01a68b1855eed714e3?$block-grid-16by9-jpg$',
+    image: 'https://m.media-amazon.com/images/I/61bCUiM7ixL._AC_SL1500_.jpg',
       price: 252,
       seller: 'Vahid Khan',
       rating: '9.2',
